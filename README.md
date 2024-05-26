@@ -1,5 +1,8 @@
 # Kearsipan Data Penduduk
 
+
+<img src="assets/img/logoNav.png" alt="">
+
 <p>
 Website ini berisikan tentang kearsipan penduduk, seperti halnya pemerintah yang sedang menginput data para warga untuk di arsipkan dan di data agar mengetahui siapa saja warganya dan berapa jumlahnya. dimana skemanya yaitu : 
 </br>
@@ -15,5 +18,20 @@ Website ini berisikan tentang kearsipan penduduk, seperti halnya pemerintah yang
 
 # Berikut adalah tampilan dari website saya
 
+<h3>Halaman LogIn</h3>
 <img src="assets/img/gmbr1.png" alt="">
+</br>
+<h3>Halaman Dashboard</h3>
 <img src="assets/img/gmbr2.png" alt="">
+</br>
+<h3>Halaman Data Penduduk</h3>
+<img src="assets/img/gmbr3.png" alt="">
+</br>
+<h3>Halaman Data Kartu Keluarga</h3>
+<img src="assets/img/gmbr4.png" alt="">
+</br>
+<h3>Halaman Data Mutasi</h3>
+<img src="assets/img/gmbr5.png" alt="">
+</br>
+<h3>Halaman Data Kelahiran</h3>
+<img src="assets/img/gmbr6.png" alt="">
