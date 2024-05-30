@@ -3,9 +3,22 @@
 
 <img src="assets/img/logoNav.png" alt="">
 
+<dl>
+  <dt>Fitur-fitur didalam web : </dt></br>
+  <dd>1. Informasi Data Penduduk</dd>
+  <dd>2. Informasi Data Kartu Keluarga</dd>
+  <dd>3. Informasi Data Mutasi : pindah datang dan pindah keluar</dd>
+  <dd>4. Informasi Peristiwa : kematian dan kelahiran</dd>
+  <dd>5. Informasi user</dd>
+  
+</dl>
+</br>
 <p>
 Website ini berisikan tentang kearsipan penduduk, seperti halnya pemerintah yang sedang menginput data para warga untuk di arsipkan dan di data agar mengetahui siapa saja warganya dan berapa jumlahnya. dimana skemanya yaitu : 
 </br>
+
+
+
 </br>
 <ul>
 <li>Pertama login terlebih dahulu sebagai Admin, di sini role nya hanya Admin atau pihak perangkat desa / DUKCAPIL</li>
